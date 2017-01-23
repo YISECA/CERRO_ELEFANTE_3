@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata RÍO VICACHA O SAN FRANCISCO 22 de Enero de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata CERRO ELEFANTE Jueves 26 de Enero de 2017</div>
 
                     </div>
 <br>

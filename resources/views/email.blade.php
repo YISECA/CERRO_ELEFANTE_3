@@ -2,7 +2,7 @@
 
 
 
-<h1>Caminata RÍO VICACHA O SAN FRANCISCO 22 de Enero de 2017</h1>
+<h1>Caminata CERRO ELEFANTE Jueves 26 de Enero de 2017</h1>
 
 
 

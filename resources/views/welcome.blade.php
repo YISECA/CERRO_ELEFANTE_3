@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/vica.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/cerro.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/vica1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/cerro1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/vica2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/cerro3.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -75,21 +75,19 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El sendero del río San Francisco o Vicachá está ubicado en las localidades de Candelaria y Santafé, marcaba el límite norte de Bogotá en sus primeros años de fundación. Nace en el páramo de Cruz Verde y baja por el cañón, entre los  cerros de Monserrate y Guadalupe. Al llegar a la ciudad en la Quinta de Bolívar es canalizado. En la actual avenida Jiménez con calle Sexta, confluye por debajo de la tierra con el río San Agustín.</font></p>
+                        <p><font size="3">El sendero se encuentra ubicado en el cerro de la ¨TETA¨ de la localidad de san Cristóbal. En el recorrido se puede observar piedras con líquenes rojos conocidas como piedras coloradas, además podemos contemplar una mirada del sur oriente de la ciudad.</font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido da inicio en la Plazoleta del Rosario ubicada frente a la estación Museo del oro, donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones propias de la caminata. Inmediatamente después se dará inicio a la caminata desde la carrera 7ª con avenida Jiménez desplazándose hacia el oriente por el eje ambiental hasta llegar a la avenida circunvalar e ingresando a los predios del acueducto. En este sector se construyó un sendero por el bosque de niebla que conduce al mirador donde se puede apreciar el centro de la ciudad. El sendero en descenso nos lleva a la universidad distrital y de allí a la avenida Jiménez con carrera 3ª donde finaliza la caminata.</font></p>
+                        <p><font size="3">El recorrido da inicio en la entrada del parqueadero de los buses del SITP ubicado frente al barrio pinares, donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones propias del recorrido y necesarias para su ejecucion y se dará inicio a la caminata.</font></p>
 
                         <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Históricos</li>
-                            <li>Culturales</li>
-                            <li>Arquitectónicos</li>
-                            <li>Hídricos</li>
-                            <li>Ambientales</li>
+                            <li>Zona de páramo</li>
+                            <li>Miradores</li>
                             <li>Ecosistema de niebla y sub- páramo</li>
+                            <li>Piedras coloradas</li>
                             </font>
                         </ul>
                         <br>
@@ -110,7 +108,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Plazoleta del rosario, frente a la estación Museo del Oro</p>
+                                            <p>Parqueadero del SITP ubicado en la entrada del barrio pinares.</p>
 
                                         </td>
 
@@ -126,7 +124,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 22 de Enero de 2017</p>
+                                            <p>Jueves 26 de Enero de 2017</p>
 
                                         </td>
 
@@ -192,7 +190,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>2.916 m.s.n.m</td>
+                                            <p>3.200 m.s.n.m</td>
 
                                     </tr>
 
@@ -226,9 +224,9 @@
                                         </td>
 
                                     </tr>
-                                    <tr valign="top">
+                                    <!--<tr valign="top">
 
-                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
+                                       <td width="281" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
                                             <p>Distancia</p>
 
@@ -240,7 +238,7 @@
 
                                         </td>
 
-                                    </tr>
+                                    </tr>-->
                                      
 
                         </table></center></font>
